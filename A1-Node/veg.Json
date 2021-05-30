@@ -1,0 +1,16 @@
+{
+    "result" : {
+        "rootVegetables" : [
+            "turnips" ,
+            "ginger" ,
+            "beets",
+            "Carrot"
+        ],
+        "leafyVegetables" : [
+            "broccoli" ,
+            "spinach" ,
+            "cabbages"
+            
+        ]
+    }
+}
